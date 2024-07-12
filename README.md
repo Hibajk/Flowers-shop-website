@@ -17,3 +17,7 @@ Open the index.html file in a web browser to view the website.
 
 ## Author
 [Hiba Chenni]
+
+
+# returns 'words'
+foobar.pluralize('word')
